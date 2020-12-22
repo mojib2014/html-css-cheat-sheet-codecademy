@@ -1,0 +1,12 @@
+{
+  "name": "html-css-cheatsheet-starting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "htmlTags.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
